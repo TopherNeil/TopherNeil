@@ -6,8 +6,7 @@
 
 ### About me
 
-- I was working as a Fullstack-Developer utilizing Laravel and JS frameworks like Angular & Vue building enterprise applications.
-- I am Currently learning and making fun projects which revolve around (VueJS, InertiaJS, Laravel, Tailwindcss) VILT stack.
+- I'm currently working as a Full Stack Developer utilizing Laravel and JS frameworks.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
